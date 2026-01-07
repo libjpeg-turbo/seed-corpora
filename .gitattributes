@@ -1,3 +1,5 @@
 *.bmp binary
 *.gif binary
 *.jpg binary
+*.ppm binary
+*.pgm binary
